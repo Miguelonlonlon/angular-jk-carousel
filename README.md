@@ -10,22 +10,6 @@ Demo : https://embed.plnkr.co/ovBExhpO40yzWPJ47QFE/
 
 ## Usage :
 
- - Add `jk-carousel.js` to your index file:
-```html
-<script src="angular.js"></script>
-<script src="jk-carousel.js"></script>
-```
-
- - Add `jk-carousel.css` to your index file:
-```html
-<link href="jk-carousel.css" rel="stylesheet" type="text/css" />
-```
-
- - Add a dependency to the `jkAngularCarousel` module in your application.
-```js
-angular.module('MyApp', ['jkAngularCarousel']);
-```
-
  - Add a `jk-carousel` tag to your html, set the data array, the item template url and the carousel max width and height.
 ```html
 <jk-carousel data="ctrl.arrayData" item-template-url="'item-template.html'" max-width="700" max-height="400" >
@@ -56,8 +40,3 @@ vm.arrayData = [
  ```
 
 
-## TODO :
- - Add Fade transition type
-
-## License
-This module is released under the permissive [MIT license](http://revolunet.mit-license.org). Contributions or suggestions are always welcome :D
