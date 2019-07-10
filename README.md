@@ -1,13 +1,12 @@
-# AngularJS Responsive Carousel
-
-An Amazing Fully Responsive AngularJS 1 Carousel that works with Angular Material and has no jQuery dependency.
+# For Stake
+The carousel package we were using broke - feel free to use. 
 
 Demo : https://embed.plnkr.co/ovBExhpO40yzWPJ47QFE/
 
 ## Install :
 
-### npm
-`npm install angular-jk-carousel`
+### bower
+`bower install angular-jk-carousel-stake`
 
 ## Usage :
 
