@@ -43,7 +43,7 @@
   }
 
   angular
-    .module('jkAngularCarousel')
+    .module('jkAngularCarouselStake')
     .directive('jkCarousel', [
     CarouselDirective
   ]);

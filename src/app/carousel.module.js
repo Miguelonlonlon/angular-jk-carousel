@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  angular.module('jkAngularCarousel', [
+  angular.module('jkAngularCarouselStake', [
     'jkAngularCarousel.templates'
   ]);
 }());
