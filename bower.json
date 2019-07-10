@@ -1,10 +1,9 @@
 {
-  "name": "angular-jk-carousel",
+  "name": "angular-jk-carousel-stake",
   "description": "An Amazing Fully Responsive AngularJS 1 Carousel that works with Angular Material.",
   "main": "./dist/jk-carousel.js",
   "authors": [
-    "Juan Carlos Morales Mora <juank.memphis@gmail.com>",
-    "Pablo Gonzalez <pablohgm@gmail.com>"
+    "Tiaan Stals"
   ],
   "license": "MIT",
   "keywords": [
@@ -13,7 +12,7 @@
     "carousel",
     "slider"
   ],
-  "homepage": "https://github.com/juank11memphis/angular-jk-carousel",
+  "homepage": "https://github.com/tiaanstals/angular-jk-carousel-stake",
   "moduleType": [
     "globals"
   ],

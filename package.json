@@ -1,11 +1,11 @@
 {
-  "name": "angular-jk-carousel",
+  "name": "angular-jk-carousel-stake",
   "main": "dist/jk-carousel.js",
   "version": "0.1.6",
   "description": "Amazing carousel for angular material",
   "repository": {
     "type": "git",
-    "url": "git://github.com/juank11memphis/angular-jk-carousel.git"
+    "url": "git@github.com:tiaanstals/angular-jk-carousel-stake.git"
   },
   "scripts": {
     "prepublish": "gulp build",
