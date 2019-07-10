@@ -253,7 +253,7 @@
   }
 
   angular
-    .module('jkAngularCarouselStake')
+    .module('jkAngularCarousel')
     .controller('JKCarouselController', [
       '$timeout', '$attrs', '$interval', '$window',
       CarouselController
