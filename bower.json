@@ -1,5 +1,5 @@
 {
-  "name": "angular-jk-carousel-stake",
+  "name": "angular-jk-carousel",
   "description": "An Amazing Fully Responsive AngularJS 1 Carousel that works with Angular Material.",
   "main": "./dist/jk-carousel.js",
   "authors": [

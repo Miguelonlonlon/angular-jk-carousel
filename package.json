@@ -1,5 +1,5 @@
 {
-  "name": "angular-jk-carousel-stake",
+  "name": "angular-jk-carousel",
   "main": "dist/jk-carousel.js",
   "version": "0.1.6",
   "description": "Amazing carousel for angular material",
